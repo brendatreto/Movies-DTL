@@ -21,6 +21,7 @@ These were the followed steps to complete the assignment:
 We took the Wikipedia JSON, and the Kaggle and MovieLens csv files and used a function to create three separate DataFrames.
 
 *Fig 1. ETL Function*
+
 ![ETL_function](https://user-images.githubusercontent.com/22451540/189238137-63637f10-dcb6-4dc3-9b8a-94c79634baa7.PNG)
 
 
