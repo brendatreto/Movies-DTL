@@ -28,6 +28,15 @@ We took the Wikipedia JSON, and the Kaggle and MovieLens csv files and used a fu
 ### Extract and transform Wikipedia data
 We filtered out TV shows and got rid of duplicated information to format the data
 
+*Fig 2. Use ETL function to transform data from Wikipedia*
+
+![clean_wikipedia](https://user-images.githubusercontent.com/22451540/189239957-4020024f-d7b4-41a4-b313-2615cb0ed449.PNG)
+
+*Fig 3. Check DataFrame from wikipedia data
+
+![wiki_df](https://user-images.githubusercontent.com/22451540/189240795-d0449a7c-b426-4eff-befa-4b8dcf927f1a.PNG)
+
+
 ### Extract and transform Kaggle data
 For this analysis we only had to eliminate duplicates and format the data. Once this was completed we merged the result with the Wikipedia DataFrame.
 
