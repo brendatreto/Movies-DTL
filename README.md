@@ -32,7 +32,7 @@ We filtered out TV shows and got rid of duplicated information to format the dat
 
 ![clean_wikipedia](https://user-images.githubusercontent.com/22451540/189239957-4020024f-d7b4-41a4-b313-2615cb0ed449.PNG)
 
-*Fig 3. Check DataFrame from wikipedia data
+*Fig 3. Check DataFrame from wikipedia data*
 
 ![wiki_df](https://user-images.githubusercontent.com/22451540/189240795-d0449a7c-b426-4eff-befa-4b8dcf927f1a.PNG)
 
